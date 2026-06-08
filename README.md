@@ -59,9 +59,9 @@ Gerenciamento centralizado de acessos AnyDesk para clientes.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=L-1-T-C-H&show_icons=true&theme=transparent"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-1-T-C-H&layout=compact&theme=transparent"/>
 
 </div>
 
